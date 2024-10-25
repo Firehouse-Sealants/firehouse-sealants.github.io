@@ -1,5 +1,9 @@
 body {
   background-color: powderblue;
+  background-image: url('FirehouseSealants/FirehouseSealants_Images/favicon_io/BC_Wildfire.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 70% 70%;
 }
 h1 {
   color: blue;
@@ -16,8 +20,8 @@ p {
   padding: 30px;
 }
 p1 {
-  background-image: url('FirehouseSealants/FirehouseSealants_Images/favicon_io/BC_Wildfire.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  color: white;
+  font-family: arial;
+  font-size: 100%;
+  border: 8px black;
 }
