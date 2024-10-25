@@ -5,9 +5,13 @@ h1 {
   color: blue;
   font-family: verdana;
   font-size: 300%;
+  border: 2px green;
+  margin: 50px;
 }
 p {
   color: red;
   font-family: courier;
   font-size: 160%;
+  border: 2px orange;
+  padding: 30px;
 }
