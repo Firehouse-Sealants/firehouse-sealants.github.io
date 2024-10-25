@@ -25,3 +25,11 @@ p1 {
   font-size: 100%;
   border: 8px black;
 }
+table, th, td {
+  border: 1px black;
+  border-collapse: collapse;
+  border-style: solid;
+}
+th, td {
+  background-color: white;
+}
